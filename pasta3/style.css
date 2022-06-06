@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,300&display=swap');
+
+h1 {
+    font-size: 40px;
+    color: deeppink;
+}
+
+.title{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: blueviolet;
+    text-decoration: underline;
+}
+.title:hover{
+    color:firebrick;
+}
+#capitulo {
+    color: greenyellow;
+}
+
+.title h1{
+    background-color: gray;
+    color: yellow;
+}
+div{
+    border: 1px solid black;
+}
+
+h2.title{
+    background-color: aquamarine;
+}
+
+h2 > i{
+    background-color: darkslateblue;
+}
+
+.bordas{
+    border: 1px solid gray;
+    background-color: silver;
+}
+
+.bordas.title{
+
+}
+
+.button{
+    background-color: darkblue;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 1.5em;
+    border: none;
+    border-radius: 0.5rem;
+    font-style: italic;
+}
+.button:hover{
+    background-color:blue;
+    opacity: 80%;
+}
+.button:active{
+    text-decoration: underline;
+}
