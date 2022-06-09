@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Poppins:ital,wght@0,300;1,300&display=swap');
+
+*  {
+    background-color: #bde0fe;
+}
+
+.result {
+    border: 1px solid black;
+    border-radius: 0.9rem;
+    margin: 10px 0;
+    padding: 6px;
+    background-color: #ffc8dd;
+    font-family: 'Montserrat', sans-serif;
+    width: 12%;
+    text-align: center;
+}
+
+.input {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button{
+    font-family: 'Montserrat', sans-serif;
+    
+    border-radius: 0.5rem;
+    border: 2.5px solid black;
+    
+}
